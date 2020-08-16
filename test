@@ -1,2 +1,1799 @@
-hi welcome this is my first project
-started now git
+
+
+<!DOCTYPE html>
+<html >
+<head>
+  <!-- Site made with Mobirise Website Builder v4.7.2, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v4.7.2, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo2.png" type="image/x-icon">
+  <meta name="description" content="✅ HTML Templates Free Download. CSS, HTML5, Basic, Simple. Get Them All Now!">
+  <title>2000+ Fresh & Free HTML Website Templates, Themes, Codes of 2019 </title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/soundcloud-plugin/style.css">
+  <link rel="stylesheet" href="assets/gdpr-plugin/gdpr-styles.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+</head>
+<body>
+    
+<!-- Google Analytics -->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PFK425"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PFK425');</script>
+<!-- End Google Tag Manager -->
+<!-- /Google Analytics -->    
+    
+  <section class="menu cid-qQw3xzIpzD" once="menu" id="menu1-3">
+
+    
+
+    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm bg-color transparent">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </button>
+        <div class="menu-logo">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    <a href="https://mobirise.com">
+                         <img src="assets/images/logo2.png" alt="Mobirise" title="" style="height: 3.8rem;">
+                    </a>
+                </span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="https://mobirise.com">
+                        MOBIRISE
+                    </a></span>
+            </div>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-white display-4" href="index.html#header7-c">
+                        
+                        Watch Video</a></li><li class="nav-item dropdown open">
+                    <a class="nav-link link text-white dropdown-toggle display-4" href="https://mobirise.com" data-toggle="dropdown-submenu" aria-expanded="true">
+                        
+                        Demo Pages</a><div class="dropdown-menu">
+							<a class="text-white dropdown-item display-4" href="./shop/index.html">HTML Business Template</a><a class="text-white dropdown-item display-4" href="./ecommerce/index.html">HTML eCommerce Website Template</a><a class="text-white dropdown-item display-4" href="./hotel/index.html">Hotel HTML Template</a><a class="text-white dropdown-item display-4" href="./landing-page/index.html">Landing Page HTML Template</a><a class="text-white dropdown-item display-4" href="./premium/index.html">Premium HTML Theme</a><a class="text-white dropdown-item display-4" href="./profile/index.html">HTML Resume Template</a><a class="text-white dropdown-item display-4" href="./shopping/index.html">Shopping HTML Template</a><a class="text-white dropdown-item display-4" href="./store/index.html">Responsive HTML Theme</a><a class="text-white dropdown-item display-4" href="./web-design-theme/index.html">HTML Design Templates</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/one-page-html-template/index.html">One Page HTML Template</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/html-and-css-templates/index.html">HTML And CSS Templates</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/html-layout-templates/index.html">HTML Layout Templates</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/simple-html5-template/index.html">Simple HTML5 Template</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/bootstrap-templates-free-download-for-html5/index.html">Bootstrap Templates Free Download For HTML5</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/free-html-bootstrap-templates/index.html">Free HTML Bootstrap Templates</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/responsive-html-template/index.html">Responsive HTML Template</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/html-portfolio-template/index.html">HTML Portfolio Template</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/bootstrap-html-template/index.html">Bootstrap HTML Template</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/html-web-templates/index.html">HTML Web Templates</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/html-homepage-template/index.html">HTML Homepage Template</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/simple-html-website-template/index.html">Simple HTML Website Template</a>
+						
+						</div></li>
+						
+						
+						<li class="nav-item dropdown open">
+                    <a class="nav-link link text-white dropdown-toggle display-4" href="https://mobirise.com" data-toggle="dropdown-submenu" aria-expanded="true">
+					More HTML Templates</a>	<div class="dropdown-menu">
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/html-themes/index.html">HTML Themes</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/html-page-template/index.html">HTML Page Template</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/html5-basic-template/index.html">HTML5 Basic Template</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/free-html-css-templates/index.html">Free HTML CSS Templates</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/html5-responsive-template/index.html">HTML5 Responsive Template</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/free-website-templates-html5/index.html">Free Website Templates HTML5</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/simple-html-templates-free-download/index.html">Simple HTML Templates Free Download</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/free-html-themes/index.html">Free HTML Themes</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/html5-templates-free-download/index.html">HTML5 Templates Free Download</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/html-website-templates-free-download/index.html">HTML Website Templates Free Download </a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/free-html5-responsive-templates/index.html">Free HTML5 Responsive Templates</a>
+						<a class="text-white dropdown-item display-4" href="https://mobirise.com/html-templates/html-template-download/index.html">HTML Template Download</a>
+						</div>
+						</div>
+						
+						</div>
+                </li></ul>
+            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-secondary display-4" href="https://mobirise.com">
+                    
+                    DOWNLOAD</a></div>
+        </div>
+    </nav>
+</section>
+
+<section class="cid-qQw6Y0IamR mbr-parallax-background" id="header2-7">
+
+    
+
+    <div class="mbr-overlay" style="opacity: 0.3; background-color: rgb(35, 35, 35);"></div>
+
+    <div class="container align-center">
+        <div class="row justify-content-md-center">
+            <div class="mbr-white col-md-10">
+                <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1"><span style="font-weight: normal;">
+                    HTML Website Templates</span></h1>
+                
+                
+                <div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="index.html#header7-c">TUTORIAL</a>
+                    <a class="btn btn-md btn-white display-4" href="index.html#features3-0">LIVE DEMOS</a></div>
+            </div>
+        </div>
+    </div>
+    
+</section>
+
+
+
+<section class="mbr-section content5 cid-qR4X63WQtL" id="content5-e">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center mbr-bold mbr-white pb-3 mbr-fonts-style display-2"><span style="font-weight: normal;">HTML TEMPLATES</span></h2>
+                
+                
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="features3 cid-qQw0CrzNMw" id="features3-0">
+
+    
+
+    
+    <div class="container container2">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="./shop/index.html"><img src="assets/images/business-676x11831-676x1183.jpg" alt="html business template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                          <a class="text-black" href="./shop/index.html"><strong>HTML Business Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="./shop/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="./web-design-theme/index.html"><img src="assets/images/design-676x11831-676x1183.jpg" alt="html design template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="./web-design-theme/index.html"><strong>HTML Design Templates</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="./web-design-theme/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO
+                        </a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="./ecommerce/index.html"><img src="assets/images/ecommerce-676x11831-676x1183.jpg" alt="html ecommerce website template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="./ecommerce/index.html"><strong>HTML eCommerce Website Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="./ecommerce/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         
+                        </a></div>
+                </div>
+            </div>
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="./hotel/index.html"><img src="assets/images/hotel-676x11831-676x1183.jpg" alt="html hotel template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="./hotel/index.html"><strong>Hotel HTML Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="./hotel/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="features3 cid-qQw357BHm0" id="features3-1">
+
+    
+
+    
+    <div class="container container2">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="./landing-page/index.html"><img src="assets/images/landing-676x11831-676x1183.jpg" alt="landing page html template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="./landing-page/index.html"><strong>Landing Page HTML Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="./landing-page/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="./premium/index.html"><img src="assets/images/premium-676x11831-676x1183.jpg" alt="premium html theme" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="./premium/index.html"><strong>Premium HTML Theme</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="./premium/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+             <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="./profile/index.html"><img src="assets/images/resume-676x11831-676x1183.jpg" alt="responsive html template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="./profile/index.html"><strong>HTML Resume Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="./profile/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="./shopping/index.html"><img src="assets/images/shopping-676x11831-676x1183.jpg" alt="online shopping html template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="./shopping/index.html"><strong>Shopping HTML Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="./shopping/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<!-- new templates here-->
+
+<section class="features3 cid-qQw3nDQvEz">
+
+    
+
+    
+    <div class="container container2">
+        <div class="media-container-row">
+           
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/industrym4/transport.html"><img src="assets/images/templates/industry2.jpg" alt="Transport Basic Bootstrap HTML Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/industrym4/transport.html"><strong>Transport Basic Bootstrap HTML Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/industrym4/transport.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/companyamp/analyticaldemo.html"><img src="assets/images/templates/company2.jpg" alt="Analytical Company CSS Page Layout" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/companyamp/analyticaldemo.html"><strong>Analytical Company CSS Page Layout</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/companyamp/analyticaldemo.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/techm4/techcompany.html"><img src="assets/images/templates/tech3.jpg" alt="Web Page Design Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/techm4/techcompany.html"><strong>Web Page Design Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/techm4/techcompany.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/simpleamp/demo2.html"><img src="assets/images/templates/simple2.jpg" alt="Furniture Agency Simple Responsive Theme" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="https://mobirise.com/extensions/simpleamp/demo2.html"><strong>Furniture Agency Simple Responsive Theme</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/simpleamp/demo2.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+
+<section class="features3 cid-qQw3nDQvEz">    
+    <div class="container container2">
+        <div class="media-container-row">
+           
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/lifestyleamp/lifestyledemo.html"><img src="assets/images/templates/lifestyle2.jpg" alt="LifeStyle Web Page HTML Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/lifestyleamp/lifestyledemo.html"><strong>LifeStyle Web Page HTML Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/lifestyleamp/lifestyledemo.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/strategyamp/consultingservices.html"><img src="assets/images/templates/strategy3.jpg" alt="Single Page Website Theme" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/strategyamp/consultingservices.html"><strong>Single Page Website Theme</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/strategyamp/consultingservices.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/churchamp/demo1.html"><img src="assets/images/templates/church1.jpg" alt="Church Simple CSS Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/churchamp/demo1.html"><strong>Church Simple CSS Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/churchamp/demo1.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/interioramp/designdemo.html"><img src="assets/images/templates/interior1.jpg" alt="Homepage Design Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="https://mobirise.com/extensions/interioramp/designdemo.html"><strong>Homepage Design Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/interioramp/designdemo.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+
+<section class="features3 cid-qQw3nDQvEz">    
+    <div class="container container2">
+        <div class="media-container-row">
+           
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/appamp/timeplanner.html"><img src="assets/images/templates/timeplannerapp.jpg" alt="One Page Time Planner App Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/appamp/timeplanner.html"><strong>One Page Time Planner App Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/appamp/timeplanner.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/schoolamp/demo3.html"><img src="assets/images/templates/languageschool.jpg" alt="Single Page Website Theme" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/schoolamp/demo3.html"><strong>Single Page Website Theme</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/schoolamp/demo3.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/travelm4/traveldemo.html"><img src="assets/images/templates/traveldemo.jpg" alt="Travel HTML Landing Page Theme" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/travelm4/traveldemo.html"><strong>Travel HTML Landing Page Theme</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/travelm4/traveldemo.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/organicamp/demo2.html"><img src="assets/images/templates/nutrition.jpg" alt="Nutrition Simple Website Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="https://mobirise.com/extensions/organicamp/demo2.html"><strong>Nutrition Simple Website Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/organicamp/demo2.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+
+<section class="features3 cid-qQw3nDQvEz">    
+    <div class="container container2">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/weddingamp/weddingplanner/"><img src="assets/images/templates/weddingplanner.jpg" alt="One Page Time Planner App Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/weddingamp/weddingplanner/"><strong>Wedding Mobile-friendly Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/weddingamp/weddingplanner/" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/industrym4/industry.html"><img src="assets/images/templates/industry2.jpg" alt="Industry Simple Bootstrap Theme" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/industrym4/industry.html"><strong>Industry Simple Bootstrap Theme</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/industrym4/industry.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/companyamp/productiondemo.html"><img src="assets/images/templates/company1.jpg" alt="Production Company Website Layout HTML" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/companyamp/productiondemo.html"><strong>Production Company Website Layout HTML</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/companyamp/productiondemo.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/techm4/gadgetsite.html"><img src="assets/images/templates/tech2.jpg" alt="Website Design Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="https://mobirise.com/extensions/techm4/gadgetsite.html"><strong>Website Design Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/techm4/gadgetsite.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="features3 cid-qQw3nDQvEz">    
+    <div class="container container2">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/lifestyleamp/traveldemo.html"><img src="assets/images/templates/lifestyle3.jpg" alt="Travel HTML Web Page Theme" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/lifestyleamp/traveldemo.html"><strong>Travel HTML Web Page Theme</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/lifestyleamp/traveldemo.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/gamingamp/demo1.html"><img src="assets/images/templates/gaming1.jpg" alt="Gamesite Template Responsive Web Design Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/gamingamp/demo1.html"><strong>Gamesite Template Responsive Web Design Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/gamingamp/demo1.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/churchamp/demo2.html"><img src="assets/images/templates/church2.jpg" alt="Example HTML Church Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/churchamp/demo2.html"><strong>Example HTML Church Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/churchamp/demo2.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/serviceamp/demo-1.html"><img src="assets/images/templates/service1.jpg" alt="Page Service Layout Design" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="https://mobirise.com/extensions/serviceamp/demo-1.html"><strong>Page Service Layout Design</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/serviceamp/demo-1.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="features3 cid-qQw3nDQvEz">    
+    <div class="container container2">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/interioramp/lightingdemo.html"><img src="assets/images/templates/interior2.jpg" alt="Website Homepage Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/interioramp/lightingdemo.html"><strong>Website Homepage Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/interioramp/lightingdemo.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/appamp/healthtracker.html"><img src="assets/images/templates/healthtracker.jpg" alt="One Page Health Tracker App Website Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/appamp/healthtracker.html"><strong>One Page Health Tracker App Website Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/appamp/healthtracker.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/consultingamp/consulting-agency/"><img src="assets/images/templates/consulting1.jpg" alt="Consulting Website Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/consultingamp/consulting-agency/"><strong>Consulting Website Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/consultingamp/consulting-agency/" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/travelm4/searchdemo.html"><img src="assets/images/templates/searchdemo.jpg" alt="Tour Search HTML Website Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="https://mobirise.com/extensions/travelm4/searchdemo.html"><strong>Tour Search HTML Website Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/travelm4/searchdemo.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="features3 cid-qQw3nDQvEz">    
+    <div class="container container2">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/organicamp/demo3.html"><img src="assets/images/templates/vegan-store.jpg" alt="Vegan Store Simple Website Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/organicamp/demo3.html"><strong>Vegan Store Simple Website Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/organicamp/demo3.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/realtym4/easyrent.html"><img src="assets/images/templates/easyrent.jpg" alt="Real Estate Bootstrap Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/realtym4/easyrent.html"><strong>Real Estate Bootstrap Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/realtym4/easyrent.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/politicsm4/candidate.html"><img src="assets/images/templates/politics1.jpg" alt="Candidate Simple HTML Website" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/politicsm4/candidate.html"><strong>Candidate Simple HTML Website</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/politicsm4/candidate.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/tastem4/perfumeshopdemo.html"><img src="assets/images/templates/taste2.jpg" alt="Simple Web Page Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="https://mobirise.com/extensions/tastem4/perfumeshopdemo.html"><strong>Simple Web Page Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/tastem4/perfumeshopdemo.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="features3 cid-qQw3nDQvEz">    
+    <div class="container container2">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/techm4/saascloud.html"><img src="assets/images/templates/tech1.jpg" alt="Mobile Web Design Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/techm4/saascloud.html"><strong>Mobile Web Design Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/techm4/saascloud.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/simpleamp/demo1.html"><img src="assets/images/templates/simple1.jpg" alt="Design Company Simple HTML Theme" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/simpleamp/demo1.html"><strong>Design Company Simple HTML Theme</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/simpleamp/demo1.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/lifestyleamp/vegandemo.html"><img src="assets/images/templates/lifestyle1.jpg" alt="Vegan HTML Site Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/lifestyleamp/vegandemo.html"><strong>Vegan HTML Site Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/lifestyleamp/vegandemo.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/strategyamp/businessmeeting.html"><img src="assets/images/templates/strategy2.jpg" alt="One Page HTML Theme" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="https://mobirise.com/extensions/strategyamp/businessmeeting.html"><strong>One Page HTML Theme</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/strategyamp/businessmeeting.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+
+<section class="features3 cid-qQw3nDQvEz">    
+    <div class="container container2">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/serviceamp/demo-3.html"><img src="assets/images/templates/service3.jpg" alt="Index Service Layout Design" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/serviceamp/demo-3.html"><strong>Index Service Layout Design</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/serviceamp/demo-3.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/sportamp/fitness-club.html"><img src="assets/images/templates/fitnessclub.jpg" alt="Fitness Club HTML Web Page Design" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/sportamp/fitness-club.html"><strong>Fitness Club HTML Web Page Design</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/sportamp/fitness-club.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/consultingamp/insurance/"><img src="assets/images/templates/consulting3.jpg" alt="Insurance Landing Page Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/consultingamp/insurance/"><strong>Insurance Landing Page Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/consultingamp/insurance/" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/schoolamp/demo2.html"><img src="assets/images/templates/danceschool.jpg" alt="CSS School Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="https://mobirise.com/extensions/schoolamp/demo2.html"><strong>CSS School Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/schoolamp/demo2.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+
+<section class="features3 cid-qQw3nDQvEz">    
+    <div class="container container2">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/educationm4/university.html"><img src="assets/images/templates/edu2.jpg" alt="Online Course Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/educationm4/university.html"><strong>Online Course Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/educationm4/university.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/organicamp/demo1.html"><img src="assets/images/templates/grocery-store.jpg" alt="Grocery Store Simple Website Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/organicamp/demo1.html"><strong>Grocery Store Simple Website Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/organicamp/demo1.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/weddingamp/wedding/"><img src="assets/images/templates/wedding.jpg" alt="Wedding HTML Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/weddingamp/wedding/"><strong>Wedding HTML Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/weddingamp/wedding/" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/politicsm4/election.html"><img src="assets/images/templates/politics1.jpg" alt="Election Basic HTML Website Example" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="https://mobirise.com/extensions/politicsm4/election.html"><strong>Election Basic HTML Website Example</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/politicsm4/election.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="features3 cid-qQw3nDQvEz">    
+    <div class="container container2">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/tastem4/chocolatedemo.html"><img src="assets/images/templates/taste1.jpg" alt="Chocolate Web Page Landing Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/tastem4/chocolatedemo.html"><strong>Chocolate Web Page Landing Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/tastem4/chocolatedemo.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/simpleamp/demo3.html"><img src="assets/images/templates/simple3.jpg" alt="Floristic Studio Basic Responsive Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/simpleamp/demo3.html"><strong>Floristic Studio Basic Responsive Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/simpleamp/demo3.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/workshopamp/car-repair-shop.html"><img src="assets/images/templates/workshop1.jpg" alt="Car Repair Shop Simple HTML Website Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/workshopamp/car-repair-shop.html"><strong>Car Repair Shop Simple HTML Website Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/workshopamp/car-repair-shop.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/gamingamp/demo2.html"><img src="assets/images/templates/gaming2.jpg" alt="Gaming HTML Web Page Design" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="https://mobirise.com/extensions/gamingamp/demo2.html"><strong>Gaming HTML Web Page Design</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/gamingamp/demo2.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="features3 cid-qQw3nDQvEz">    
+    <div class="container container2">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/strategyamp/strategicplanning.html"><img src="assets/images/templates/strategy1.jpg" alt="HTML Single Page Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/strategyamp/strategicplanning.html"><strong>HTML Single Page Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/strategyamp/strategicplanning.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/serviceamp/demo-2.html"><img src="assets/images/templates/service2.jpg" alt="Web Service Layout Design" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/serviceamp/demo-2.html"><strong>Web Service Layout Design</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/serviceamp/demo-2.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/interioramp/architecturaldemo.html"><img src="assets/images/templates/interior3.jpg" alt="Web Homepage Design" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/interioramp/architecturaldemo.html"><strong>Web Homepage Design</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/interioramp/architecturaldemo.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/sportamp/gym-hall.html"><img src="assets/images/templates/gymhall.jpg" alt="Gym Hall Responsive Website Design" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="https://mobirise.com/extensions/sportamp/gym-hall.html"><strong>Gym Hall Responsive Website Design</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/sportamp/gym-hall.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="features3 cid-qQw3nDQvEz">    
+    <div class="container container2">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/consultingamp/bank/"><img src="assets/images/templates/consulting2.jpg" alt="Bank Website Design Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/consultingamp/bank/"><strong>Bank Website Design Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/consultingamp/bank/" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            
+        
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/schoolamp/demo1.html"><img src="assets/images/templates/drivingschool.jpg" alt="Academic Website Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/schoolamp/demo1.html"><strong>Academic Website Template</strong></a>
+                        </h5>
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/schoolamp/demo1.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+            
+            
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/realtym4/nicebooking.html"><img src="assets/images/templates/nicebooking.jpg" alt="Web Homepage Design" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/realtym4/nicebooking.html"><strong>Web Homepage Design</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/realtym4/nicebooking.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/educationm4/courses.html"><img src="assets/images/templates/edu1.jpg" alt="University HTML Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="https://mobirise.com/extensions/educationm4/courses.html"><strong>University HTML Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/educationm4/courses.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<!-- end -->
+
+<section class="features3 cid-qQw3nDQvEz" id="features3-2">
+
+    
+
+    
+    <div class="container container2">
+        <div class="media-container-row">
+           
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="./store/index.html"><img src="assets/images/sneakers-676x11831-676x1183.jpg" alt="html business theme" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="./store/index.html"><strong>Responsive HTML Theme</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="./store/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/one-page-html-template/index.html"><img src="assets/images/one-page-html-template.jpg" alt="One Page HTML Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/one-page-html-template/index.html"><strong>One Page HTML Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/one-page-html-template/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/html-and-css-templates/index.html"><img src="assets/images/html-and-css-templates.jpg" alt="HTML And CSS Templates" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/html-and-css-templates/index.html"><strong>HTML And CSS Templates</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/html-and-css-templates/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/html-layout-templates/index.html"><img src="assets/images/html-layout-templates.jpg" alt="HTML Layout Templates" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="https://mobirise.com/html-templates/html-layout-templates/index.html"><strong>HTML Layout Templates</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/html-layout-templates/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+
+<section class="features3 cid-qQw3nDQvEz" id="features2">
+
+    <div class="container container2">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/simple-html5-template/index.html"><img src="assets/images/simple-html5-template.jpg" alt="Simple HTML5 Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/simple-html5-template/index.html"><strong>Simple HTML5 Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/simple-html5-template/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/bootstrap-templates-free-download-for-html5/index.html"><img src="assets/images/bootstrap-templates-free-download-for-html5.jpg" alt="Bootstrap Templates Free Download For HTML5" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="https://mobirise.com/html-templates/bootstrap-templates-free-download-for-html5/index.html"><strong>Bootstrap Templates Free Download For HTML5</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/bootstrap-templates-free-download-for-html5/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/free-html-bootstrap-templates/index.html"><img src="assets/images/free-html-bootstrap-templates.jpg" alt="Free HTML Bootstrap Templates" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/free-html-bootstrap-templates/index.html"><strong>Free HTML Bootstrap Templates</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/free-html-bootstrap-templates/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/responsive-html-template/index.html"><img src="assets/images/responsive-html-template.jpg" alt="Responsive HTML Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/responsive-html-template/index.html"><strong>Responsive HTML Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/responsive-html-template/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="features3 cid-qQw3nDQvEz" id="features3">    
+    <div class="container container2">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/html-portfolio-template/index.html"><img src="assets/images/html-portfolio-template.jpg" alt="HTML Portfolio Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/html-portfolio-template/index.html"><strong>HTML Portfolio Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/html-portfolio-template/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/bootstrap-html-template/index.html"><img src="assets/images/bootstrap-html-template.jpg" alt="Bootstrap HTML Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/bootstrap-html-template/index.html"><strong>Bootstrap HTML Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/bootstrap-html-template/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/html-web-templates/index.html"><img src="assets/images/html-web-templates.jpg" alt="HTML Web Templates" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                          <a class="text-black" href="https://mobirise.com/html-templates/html-web-templates/index.html"><strong>HTML Web Templates</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/html-web-templates/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/html-homepage-template/index.html"><img src="assets/images/html-homepage-template.jpg" alt="HTML Homepage Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="https://mobirise.com/html-templates/html-homepage-template/index.html"><strong>HTML Homepage Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/html-homepage-template/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+
+<section class="features3 cid-qQw3nDQvEz" id="features4">
+
+    <div class="container container2">
+        <div class="media-container-row">
+            
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/simple-html-website-template/index.html"><img src="assets/images/simple-html-website-template.jpg" alt="Simple HTML Website Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/simple-html-website-template/index.html"><strong>Simple HTML Website Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/simple-html-website-template/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/html-themes/index.html"><img src="assets/images/html-themes.jpg" alt="HTML Themes" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/html-themes/index.html"><strong>HTML Themes</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/html-themes/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/html-page-template/index.html"><img src="assets/images/html-page-template.jpg" alt="HTML Page Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/html-page-template/index.html"><strong>HTML Page Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/html-page-template/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/html5-basic-template/index.html"><img src="assets/images/html5-basic-template.jpg" alt="HTML5 Basic Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/html5-basic-template/index.html"><strong>HTML5 Basic Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/html5-basic-template/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="features3 cid-qQw3nDQvEz" id="features6">
+
+    <div class="container container2">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/free-html-css-templates/index.html"><img src="assets/images/free-html-css-templates.jpg" alt="Free HTML CSS Templates" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/free-html-css-templates/index.html"><strong>Free HTML CSS Templates</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/free-html-css-templates/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/html5-responsive-template/index.html"><img src="assets/images/html5-responsive-template.jpg" alt="HTML5 Responsive Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/html5-responsive-template/index.html"><strong>HTML5 Responsive Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/html5-responsive-template/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/free-website-templates-html5/index.html"><img src="assets/images/free-website-templates-html5.jpg" alt="Free Website Templates HTML5" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/free-website-templates-html5/index.html"><strong>Free Website Templates HTML5</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/free-website-templates-html5/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/simple-html-templates-free-download/index.html"><img src="assets/images/simple-html-templates-free-download.jpg" alt="Simple HTML Templates Free Download" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/simple-html-templates-free-download/index.html"><strong>Simple HTML Templates Free Download</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/simple-html-templates-free-download/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="features3 cid-qQw3nDQvEz" id="features7">
+
+    <div class="container container2">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/simple-html-templates-free-download/index.html"><img src="assets/images/simple-html-templates-free-download.jpg" alt="Simple HTML Templates Free Download" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/simple-html-templates-free-download/index.html"><strong>Simple HTML Templates Free Download</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/simple-html-templates-free-download/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/free-html-themes/index.html"><img src="assets/images/free-html-themes.jpg" alt="Free HTML Themes" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/free-html-themes/index.html"><strong>Free HTML Themes</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/free-html-themes/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/html5-templates-free-download/index.html"><img src="assets/images/html5-templates-free-download.jpg" alt="HTML5 Templates Free Download" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/html5-templates-free-download/index.html"><strong>HTML5 Templates Free Download</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/html5-templates-free-download/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/html-website-templates-free-download/index.html"><img src="assets/images/html-website-templates-free-download.jpg" alt="HTML Website Templates Free Download" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/html-website-templates-free-download/index.html"><strong>HTML Website Templates Free Download</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/html-website-templates-free-download/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="features3 cid-qQw3nDQvEz" >
+
+    
+
+    
+    <div class="container container2">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/brandamp/smartwatch.html"><img src="assets/images/templates/brand1.jpg" alt="Basic HTML Page Template" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/brandamp/smartwatch.html"><strong>Basic HTML Page Template</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/brandamp/smartwatch.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/extensions/brandamp/perfectsuit.html"><img src="assets/images/templates/brand2.jpg" alt="Free HTML5 Responsive Templates" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/extensions/brandamp/perfectsuit.html"><strong>Free HTML5 Responsive Templates</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/extensions/brandamp/perfectsuit.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+          
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/free-html5-responsive-templates/index.html"><img src="assets/images/free-html5-responsive-templates.jpg" alt="Free HTML5 Responsive Templates" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                            <a class="text-black" href="https://mobirise.com/html-templates/free-html5-responsive-templates/index.html"><strong>Free HTML5 Responsive Templates</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com/html-templates/free-html5-responsive-templates/index.html" class="btn btn-primary display-4">
+                            LIVE DEMO                         </a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-3">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <a href="https://mobirise.com/html-templates/html-template-download/index.html"><img src="assets/images/html-template-download.jpg" alt="HTML Template Download" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <h5 class="text-center mbr-fonts-style" mbr-theme-style="display-7" mbr-if="showTitle" data-app-selector=".card-title">
+                           <a class="text-black" href="https://mobirise.com/html-templates/html-template-download/index.html"><strong>HTML Template Download</strong></a>
+                        </h5>
+                        
+                    </div>
+                    <div class="mbr-section-btn text-center">
+					
+					<a href="https://mobirise.com/html-templates/html-template-download/index.html" class="btn btn-primary display-4">LIVE DEMO</a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+
+<section class="header7 cid-qQwlaj86Gf" id="header7-c">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row">
+
+            <div class="media-content align-right">
+                <h1 class="mbr-section-title mbr-white pb-3 mbr-fonts-style display-1">Video Tutorial</h1>
+                <div class="mbr-section-text mbr-white pb-3">
+                    <p class="mbr-text mbr-fonts-style display-5">Watch this video tutorial to learn how to start new website projects, design your HTML template and create your own responsive HTML websites using the HTML website templates below.</p>
+                </div>
+                
+            </div>
+
+            <div class="mbr-figure" style="width: 140%;"><iframe class="mbr-embedded-video" src="https://www.youtube.com/embed/ISdIrvi_3c4?rel=0&amp;amp;showinfo=0&amp;autoplay=1&amp;loop=1" width="1280" height="720" frameborder="0" allowfullscreen></iframe></div>
+
+        </div>
+    </div>
+</section>
+
+
+<section once="" class="cid-qR51kU6rqZ" id="footer6-f">
+
+
+    <div class="container">
+        <div class="media-container-row align-center mbr-white">
+            <div class="col-12">
+                <p class="mbr-text mb-0 mbr-fonts-style display-7">
+                    © Copyright 2019 Mobirise - All Rights Reserved
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/popper/popper.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="assets/dropdown/js/script.min.js"></script>
+  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/parallax/jarallax.min.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  
+  
+</body>
+</html>
+
+
